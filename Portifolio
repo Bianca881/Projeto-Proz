@@ -1,0 +1,120 @@
+<DOCTYPE html>
+    <html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width" , initial-scale="1.0">
+        <title>Perfil profissional</title>
+        <link rel="stylesheet" href="">
+        <script src="https://kit.fontawesome.com/3afd5c4efe.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style2.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>D- TRAMPO</h1>
+            <nav><!-- menu  do projeto-->
+                <a href="#">Sobre mim</a>
+                <a href="#">Experiência</a>
+                <a href="#">Fale Comigo</a>
+
+            </nav>
+        </header>
+        <section class="container">
+            <div class="perfil">
+                <img src="data:image/jpeg;base64,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"
+                    alt="Elon musk">
+                <div class="info">
+                    <h2>Sobre mim</h2>
+                    <p>
+                        Empreendedor visionário e líder global no setor de tecnologia, mobilidade elétrica e exploração
+                        espacial. </p>
+                    <p>Com vasta experiência na fundação e gestão de empresas inovadoras, atua na vanguarda do
+                        desenvolvimento de soluções disruptivas que impactam indústrias inteiras e moldam o futuro da
+                        humanidade.
+
+                        Destaca-se pela capacidade de transformar ideias ambiciosas em negócios de sucesso,
+                        impulsionando avanços tecnológicos em diversas áreas, como veículos elétricos, transporte
+                        espacial, inteligência artificial e infraestrutura urbana.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <div class="skill">
+            <h1>Experiência</h1>
+
+            <li>
+                <h3>HTML</h3>
+                <span class="bar"><span class="html"></span></span>
+            </li>
+            <li>
+                <h3>CSS</h3>
+                <span class="bar"><span class="css"></span></span>
+            </li>
+            <li>
+                <h3>JAVASCRIPT</h3>
+                <span class="bar"><span class="javascript"></span></span>
+            </li>
+        </div>
+
+
+<section  class="container"> 
+        <form>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+
+            <br><br>
+
+
+            <div class="telefone-container">
+                <label for="telefone">Telefone</label>
+                <input type="tel" name="telefone" id="telefone" required>
+                
+                <div class="radio-container">
+                    <input type="radio" id="html" name="fav_language" value="HTML">
+                    <label for="html">Pessoal</label>
+                    
+                    <input type="radio" id="css" name="fav_language" value="CSS">
+                    <label for="css">Comercial</label>
+                </div>
+            </div>
+            
+
+
+            <br><br>
+
+            <label for="email">E-mail</label>
+            <input type="email" name="email" id="email" required>
+            <br><br>
+
+            <label for="motivo">Motivo:</label>
+            <select name="" id="">
+                <option value="">Prosta </option>
+                <option value="">frelance </option>
+            </select>
+
+            <label for="mensagem">Mensagem</label>
+            <input type="mensagem" name="mensagem" id="mensagem" required>
+            <br><br>
+
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpar</button>
+        </form>
+    </section>
+
+        </div>
+        </div>
+        <section>
+            <div class="rede">
+                <a href="#"><i class="fa-brands fa-square-instagram"></i></a>
+                <a href="#"><i class="fa-brands fa-square-whatsapp"></i></a>
+                <a href="#"><i class="fa-brands fa-github"></i></a>
+                <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+            </div>
+        </section>
+
+
+
+
+    </html>
